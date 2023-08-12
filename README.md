@@ -14,13 +14,10 @@ This website design is inspired by [Mehmet Eren Olgun](https://www.mehmeterenolg
 
 
 ### Running Locally
-
 - Make sure you have [NodeJs](https://nodejs.dev/) installed.
-
 - Fork and clone this repository
-
 - `cd` into a folder
-
+- 
 **Type the following commands**
 
 ```bash
