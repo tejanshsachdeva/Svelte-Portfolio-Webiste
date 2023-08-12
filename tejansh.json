@@ -1,0 +1,65 @@
+{
+  "name": "Tejansh Sachdeva",
+  "tagline": "React developer, Competetive Programmer, open source contributor and student",
+  "nickname": "Teju",
+  "email": "tejanshsachdeva@gmail.com",
+  "github": "https://github.com/tejanshsachdeva",
+  "twitter": "https://twitter.com/teju_sachdeva",
+  "linkedin": "https://www.linkedin.com/in/tejansh/",
+  "instagram": "https://www.instagram.com/teju_sachdeva/",
+  "services": [
+    {
+      "icon": "teenyicons:react-outline",
+      "title": "React Developer",
+      "description": "I have been working with react framework for over a years. I can build responsive websites using react."
+    },
+    {
+      "icon": "dashicons:welcome-write-blog",
+      "title": "Content writer",
+      "description": "I have been writing technical and finance blogs."
+    },
+    {
+      "icon": "simple-icons:leetcode",
+      "title": "Problem Solver",
+      "description": "I love solving problems on leetcode and other competetive coding platforms."
+    }
+  ],
+  "skills": {
+    "technology": [
+      {
+        "icon":  "teenyicons:react-outline",
+        "title": "React"
+      },
+      {
+        "icon": "mdi:language-cpp",
+        "title": "C++"
+      },
+      {
+        "icon": "akar-icons:javascript-fill",
+        "title": "JavaScript"
+      },
+      {
+        "icon": "cib:typescript",
+        "title": "TypeScript"
+      }
+    ],
+    "tools": [
+      {
+        "icon": "solar:figma-outline",
+        "title": "Figma"
+      },
+      {
+        "icon": "mdi:github",
+        "title": "Github"
+      },
+      {
+        "icon": "cib:linux-mint",
+        "title": "Linux"
+      },
+      {
+        "icon": "arcticons:git",
+        "title": "Git"
+      }
+    ]
+  }
+}
